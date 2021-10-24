@@ -1,0 +1,48 @@
+    .noticia {
+        font-size: 20px;
+        /*display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;*/
+        text-align: center;
+        color: #000;
+    }
+    
+    .noticia .titulo {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 40px;
+        text-align: center;
+        margin-top: 5%;
+    }
+    
+    .noticia .subtitulo {
+        font: 15px;
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+    
+    .noticia .descricao-noticia {
+        text-align: justify;
+        margin-top: 3%;
+    }
+    
+    .divisao {
+        color: rgba(255, 255, 255, .5);
+        width: 60%;
+        margin: auto;
+    }
+    
+    .estantes {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .livro-estantes {
+        margin-top: 3%;
+    }
+    
+    .livro-estantes .estantes .item {
+        margin-left: 5%;
+        margin-bottom: 2%;
+        align-content: center;
+    }
