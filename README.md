@@ -10,6 +10,7 @@ Projeto bookflix, um netflix para livros. Foi utilizado
 
 # Configuração para rodar projeto
 Para rodar o projeto, baixe e crie uma pasta com o nome bookflix e deixe os arquivos nessa pasta, abre a pagina com o nome index.html
+[Clique aqui para acessar o projeto](https://gabrielajs.github.io/bookflix/)
 
 <img src="https://github.com/gabrielajs/bookflix/blob/main/img/pagina-inicial.png">
 
